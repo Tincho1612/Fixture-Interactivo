@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1669574416 source:c:\users\enzo\desktop\c\proyectomundial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"string.h"
+	"time.h"
+	"Partidos.h"
+
+1669575392 source:c:\users\enzo\desktop\c\proyectomundial\partidos.c
+	"Partidos.h"
+
+1669551320 c:\users\enzo\desktop\c\proyectomundial\partidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"string.h"
+	"time.h"
+	<conio.h>
+	<windows.h>
+
+1669240203 c:\users\enzo\desktop\c\proyectomundial\equipos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"string.h"
+	"time.h"
+	"Partidos.h"
+
+1669240207 source:c:\users\enzo\desktop\c\proyectomundial\equipos.c
+	"Partidos.h"
+	"Equipos.h"
+
+1669575582 source:c:\users\martin\desktop\programacion 2\tp final - fixture mundial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"string.h"
+	"time.h"
+	"Partidos.h"
+
+1669551320 c:\users\martin\desktop\programacion 2\tp final - fixture mundial\partidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"string.h"
+	"time.h"
+	<conio.h>
+	<windows.h>
+
+1669575392 source:c:\users\martin\desktop\programacion 2\tp final - fixture mundial\partidos.c
+	"Partidos.h"
+
